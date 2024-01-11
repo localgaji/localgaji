@@ -6,6 +6,13 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
+</div>
+
+### 👀 I've learned about...
 
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -15,19 +22,11 @@
 
   <img src="https://img.shields.io/badge/playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
 </div>
-
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
-</div>
-
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
 </div>
 
-</br>
   
 ### 🙋 About Me
 
